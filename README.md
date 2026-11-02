@@ -1,6 +1,6 @@
 # 🤖 Agentic AI Content Generation System
 
-A multi-agent Agentic AI system built using **CrewAI and Python**, featuring specialized Planner, Writer, and Editor agents to generate structured, informative, and student-friendly educational blog articles for students in Classes 6–10.
+A multi-agent Agentic AI system built using **CrewAI and Python**, featuring specialized Planner, Writer, and Editor agents to generate structured, informative, and student-friendly educational blog articles for our clients Ramanujan Classes which operates for Classes 6–10.
 
 ## 📌 Project Overview
 
